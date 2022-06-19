@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HebatallaShoaeib
+- 👀 I’m interested in math, music, and books.
+- 🌱 I’m currently learning Python.
+- 👩‍💻 I'm an educator.
